@@ -1,0 +1,11 @@
+{
+    "name": "istime",
+    "keywords": "timer, delay",
+    "description": "Timer library",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ksahnine/istime-pio.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
